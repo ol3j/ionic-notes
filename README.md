@@ -23,6 +23,7 @@ links to blog posts, articles, videos, etc for learning ionic framework
 
 ## Sample Apps
 * [MediaExplorerMobile](https://github.com/hollyschinsky/MediaExplorerMobile)
+* [ionicDynamicRouting](https://github.com/calendee/ionicDynamicRouting)
 
 ## Store Apps
 
